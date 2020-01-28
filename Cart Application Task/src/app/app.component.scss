@@ -1,0 +1,7 @@
+$font-stack:    verdana;
+$primary-color: #000;
+
+body {
+  font: 14px $font-stack !important;
+  color: $primary-color;
+}

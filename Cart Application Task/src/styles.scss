@@ -1,0 +1,11 @@
+$font-stack: Verdana;
+$primary-color: #000;
+
+body {
+  font: 14px $font-stack;
+  color: $primary-color;
+
+  &.btn{
+    font: 14px $font-stack;
+  }
+}
